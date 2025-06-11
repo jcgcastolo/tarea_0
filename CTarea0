@@ -1,0 +1,7 @@
+# rmarkdown
+# https://www.youtube.com/watch?v=BAN4ErGF5ro
+# usethis::create_github_token()
+# gitcreds::gitcreds_set()
+# token:  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
+
+library(ggplot2)
