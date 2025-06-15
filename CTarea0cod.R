@@ -16,3 +16,6 @@
 # prueba desde mi laptop
 
 # prueba desde mi pc
+
+# Se concluye que se todo proyecto
+# debe generar un token diferente para cada computadora
