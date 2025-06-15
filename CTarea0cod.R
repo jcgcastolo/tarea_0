@@ -19,3 +19,5 @@
 
 # Se concluye que se todo proyecto
 # debe generar un token diferente para cada computadora
+
+# queja desde githup
